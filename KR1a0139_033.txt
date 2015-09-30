@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 合訂刪補大易集義粹言
-#+DATE: 2015-09-23 09:35:36
-#+PROPERTY: JUAN 33
+#+DATE: 2015-08-24 21:59:36.659677
+#+PROPERTY: ID KR1a0139
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十一
 <pb:KR1a0139_WYG_033-1a>¶
 欽定四庫全書¶
 合訂刪補大易集義粹言卷三十一¶
@@ -650,4 +652,3 @@
 　¶
 　¶
 　合訂刪補大易集義粹言卷三十一¶
-

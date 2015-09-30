@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 合訂刪補大易集義粹言
-#+DATE: 2015-09-23 09:35:36
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 21:59:36.383715
+#+PROPERTY: ID KR1a0139
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九
 <pb:KR1a0139_WYG_021-1a>¶
 欽定四庫全書¶
 　合訂刪補大易集義粹言卷十九¶
@@ -668,4 +670,3 @@
 　　音却不濟事須就内以剛武自治其邑國則可六¶
 　　五上六利用字須仔細看(易/説)¶
 　合訂刪補大易集義粹言卷十九¶
-

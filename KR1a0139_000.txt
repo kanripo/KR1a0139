@@ -1,5 +1,5 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 合訂刪補大易集義粹言
-#+DATE: 2015-09-23 09:35:36
-#+PROPERTY: JUAN 0
-
+#+DATE: 2015-08-24 21:59:35.955108
+#+PROPERTY: ID KR1a0139
+#+PROPERTY: BASEEDITION WYG    

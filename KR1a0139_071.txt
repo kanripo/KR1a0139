@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 合訂刪補大易集義粹言
-#+DATE: 2015-09-23 09:35:36
-#+PROPERTY: JUAN 71
+#+DATE: 2015-08-24 21:59:37.642493
+#+PROPERTY: ID KR1a0139
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十九
 <pb:KR1a0139_WYG_071-1a>¶
 欽定四庫全書¶
 　合訂刪補大易集義粹言卷六十九¶
@@ -830,4 +832,3 @@
 　　　右第二章(新安朱氏本義曰此章言/聖人作易君子學易之事)¶
 　¶
 　合訂刪補大易集義粹言卷六十九¶
-
